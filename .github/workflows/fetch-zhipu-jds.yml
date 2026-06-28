@@ -1,6 +1,8 @@
 name: Fetch Zhipu JDs
 
 on:
+  push:
+    branches: [profile/career-evidence-database-v1]
   pull_request:
     branches: [main]
 
