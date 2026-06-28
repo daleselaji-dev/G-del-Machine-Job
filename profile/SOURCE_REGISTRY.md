@@ -7,11 +7,11 @@ This file records provenance for profile evidence without copying sensitive pers
 ### SRC-RESUME-20260622-01
 
 - Source type: private resume PDF in the user's File Library
-- Source title: `于子洋-DavidYu(1).pdf`
+- Public source label: `private-resume-2026-06.pdf`
 - File-library creation date: 2026-06-22
 - Imported to profile archive: 2026-06-28
 - Imported scope: education, work history, internships, capability inventory, quantified results and raw positioning language
-- Excluded from public GitHub backup: phone number, email address, messaging ID, portrait and other direct contact information
+- Excluded from public GitHub backup: original filename, phone number, email address, messaging ID, portrait and other direct contact information
 - Destination: `BASELINE_RESUME.md`
 - Preservation status: original PDF remains the source artifact; the GitHub version is an anonymized searchable text backup
 
