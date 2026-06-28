@@ -13,9 +13,9 @@ Retention rule: keep the latest five comparable runs, accepted evolution summari
 
 ## Recent runs
 
+- `2026-06-28-DIRECTION-SURVEY-001` — Reviewed 17 priority public JD lines plus adjacent openings across large-model commercialization, AI/IoT ecosystems, intelligent robotics, enterprise cloud and multinational bridge routes. Primary routes are AI/MaaS solution or ecosystem commercialization and intelligent-hardware overseas/solution roles. AI product operations and Agent-data roles remain a portfolio-gated second curve. The largest gaps are a public Agent/evaluation artifact, API/Token/PoC vocabulary and authenticated verification of fixed/variable compensation, quota, work system and target-team quality.
 - `2026-06-28-DEEPSEEK-ZAI-MAAS` — Large-model commercialization, MaaS, Agent/data roles and adjacent directions reviewed. DeepSeek product/Agent-data and Z.ai Hangzhou MaaS were prioritized subject to official role and compensation verification. Agent portfolio identified as the main transition gap.
 - `2026-06-27-DEEPSEEK-ZHIPU-STRATEGY` — Two resume routes and an Agent/product portfolio plan were defined for DeepSeek and Z.ai; company priorities were compressed into the ledger.
-- `2026-06-25-DAILY-004` — Overseas enterprise software, fintech, multinational sales trainee and technical-services options reviewed; current-role and salary verification remained the main bottleneck.
 - `2026-06-26-DAILY-005` — Cross-direction set reviewed across fintech, lidar, robotics, industrial automation, certification, semiconductor and AI commercialization; no recommendation was promoted without a current-role evidence gate.
 - `2026-06-27-DAILY-006` — Company prospects and role freshness were separated more strictly; unresolved HTML runtime limitations were recorded rather than hidden.
 
