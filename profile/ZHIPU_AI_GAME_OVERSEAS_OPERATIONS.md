@@ -1,7 +1,7 @@
 # Zhipu AI Overseas Game Operations — Role and Evidence Map
 
 status: ACTIVE_TARGET_MODULE  
-version: v0.1  
+version: v0.2  
 created_at: 2026-06-28  
 last_updated: 2026-06-28  
 role: AI产品海外游戏运营（AI+模拟经营方向）  
@@ -9,22 +9,22 @@ company: 智谱华章
 location: Beijing  
 related: `CAREER_EVIDENCE_DATABASE.md`, `JOB_REQUIREMENTS_DATABASE.md`, `ZHIPU_ROLE_REQUIREMENTS.md`
 
-> This module distinguishes narrative fit from verified direct experience. The candidate has a credible game-content foundation plus overseas growth evidence, but does not yet have 3–5 years of direct overseas game-publishing experience.
+> This module distinguishes narrative fit from verified direct experience. The candidate now has confirmed simulation-game content, community and multi-platform operations evidence, but still lacks 3–5 years of direct overseas game-publishing ownership.
 
 ## 1. Role conclusion
 
 - **Fit type:** adjacent/high-potential transition.
 - **Narrative fit:** strongest among the current Zhipu targets.
-- **Direct-experience fit:** medium-low because the direct game experience is an internship and the overseas-game/community stack is not yet verified.
+- **Direct-experience fit:** medium. ACE now provides direct simulation-game, community, social-platform and creator-collaboration evidence; seniority and full-launch ownership remain the main gaps.
 - **Application priority:** P1 stretch role.
 - **Apply now:** yes, with a dedicated game-growth resume and a role-specific portfolio case.
 - **Do not use:** generic overseas-sales resume or a pure AI-product-manager resume.
 
 The strongest candidate narrative is:
 
-> Game-content and growth foundation at ACE → bilingual/localized content and overseas campaigns → 0→1 international-market execution → AI-product/Agent learning.
+> Simulation-game content and community operations at ACE → multi-platform overseas social experience and creator collaboration → bilingual/localized campaigns → 0→1 international-market execution → AI-companion and Agent-product direction.
 
-This is more coherent than presenting the candidate as an experienced game publisher or a mature AI product manager.
+This is more coherent than presenting the candidate as either a senior game publisher or a mature AI product manager.
 
 ## 2. JD structure
 
@@ -53,18 +53,19 @@ The role is not only content creation. It expects one person to connect position
 - Cross-cultural storytelling.
 
 **Candidate evidence**
-- `ACE-001`: target-audience interest analysis and content-hook optimization in a game context.
+- `ACE-001`: simulation-game context, target-audience interest analysis and content-hook optimization.
+- `ACE-004`: long-term affinity with Animal Crossing, Stardew Valley, a Japanese rice-farming title likely referring to Sakuna: Of Rice and Ruin, and classic text games.
 - `BENY-001`: translated technical parameters into understandable user scenarios.
 - `BENY-002`: bilingual product-content performance.
 - `EDU-001`: bilingual broadcasting, presentation, audience adaptation and content structuring.
 - `MG-002`: reframed a buying decision around product fit and value.
 
-**Fit:** medium transferable.
+**Fit:** medium-strong transferable.
 
 **Missing proof**
-- No confirmed brand-positioning ownership.
-- No published English game-brand narrative.
-- No confirmed insight work on cozy games, simulation games or AI companionship.
+- No confirmed ownership of a complete game-brand positioning system.
+- No published English game-brand narrative or tone-of-voice guide.
+- Player-affinity evidence needs to become a structured product analysis, not only an interests list.
 
 ### C2. Lifecycle overseas marketing strategy
 
@@ -81,6 +82,7 @@ The role is not only content creation. It expects one person to connect position
 - Learning agenda and experiment backlog.
 
 **Candidate evidence**
+- `ACE-002`: direct multi-platform game-community/social operations experience.
 - `MG-001`: 0→1 India market entry and partner development.
 - `MG-003`: multi-source overseas acquisition workflow.
 - `MG-004`: customer segmentation and localized activation/sell-out support.
@@ -90,9 +92,9 @@ The role is not only content creation. It expects one person to connect position
 **Fit:** medium-strong transferable.
 
 **Missing proof**
-- No complete game launch or overseas publishing cycle.
-- No product pre-registration, soft-launch, launch-day or live-operations metrics.
-- No verified consumer-app acquisition funnel.
+- No complete game pre-registration, soft-launch, launch-day and live-operations cycle.
+- No verified consumer-app acquisition, activation, retention or monetization funnel.
+- ACE platform roles and lifecycle stage need to be clarified.
 
 ### C3. Creative brief and aesthetic judgment
 
@@ -109,8 +111,9 @@ The role is not only content creation. It expects one person to connect position
 - Ability to explain why a creative works.
 
 **Candidate evidence**
-- `ACE-001`: learned basic Unity within one month, participated in promotional-video editing, optimized the first five seconds, editing rhythm and publishing approach, doubled content performance and added 1,000+ followers.
-- `ACE-002`: Premiere Pro/After Effects remains pending confirmation.
+- `ACE-001`: learned basic Unity within one month for a farming/simulation game, participated in promotional-video editing, optimized the first five seconds, editing rhythm and publishing approach, doubled content performance and added 1,000+ followers.
+- `ACE-003`: collaborated with external creators in community/content operations.
+- `ACE-006`: Premiere Pro/After Effects remains pending confirmation.
 - `BENY-002`: bilingual content performance.
 - `FF-006`: localized social content with quantified engagement.
 - `EDU-001`: communication, presentation and narrative structure.
@@ -118,9 +121,9 @@ The role is not only content creation. It expects one person to connect position
 **Fit:** strongest direct overlap.
 
 **Missing proof**
-- Exact platform, market, content volume and creative ownership are not confirmed.
-- No public creative brief, storyboard or English game trailer copy.
-- No verified work aimed at Western indie-game communities.
+- Exact platform-by-platform content volume and ownership are not confirmed.
+- No public creative brief, storyboard or English game-trailer copy.
+- Creator-collaboration scope, deliverables and results need detail.
 
 ### C4. Reddit/X/Discord/Product Hunt cold start
 
@@ -138,16 +141,17 @@ The role is not only content creation. It expects one person to connect position
 - Crisis and anti-spam judgment.
 
 **Candidate evidence**
-- `MG-003` and `TOOL-001`: LinkedIn, Google, WhatsApp, social research and OSINT.
-- `ACE-001`: content-distribution optimization.
+- `ACE-002` and `TOOL-004`: confirmed operations experience across Discord, Reddit, X, TikTok, YouTube and Facebook in a game/community context.
+- `ACE-001`: data-informed content-distribution optimization.
 - `FF-005`: English communication and relationship maintenance.
+- `MG-003` and `TOOL-001`: overseas social research and structured acquisition.
 
-**Fit:** low-to-medium.
+**Fit:** medium-strong, with depth pending.
 
-**Critical gaps**
-- Reddit, X, Discord and Product Hunt hands-on ownership are not confirmed.
-- No large overseas-community moderation role.
-- No English cold-start case or seed-user conversion data.
+**Remaining gaps**
+- Product Hunt experience is not confirmed.
+- Platform scale, language/market, posting frequency, moderation responsibility and seed-user conversion are unknown.
+- No complete English cold-start launch case is documented.
 
 ### C5. KOL and media partnerships
 
@@ -162,13 +166,15 @@ The role is not only content creation. It expects one person to connect position
 - Earned-media and relationship-building logic.
 
 **Candidate evidence**
+- `ACE-003`: confirmed external-creator collaboration in game-community/content operations.
 - `MG-001`, `MG-003`, `FF-005`: overseas partner research, outreach, negotiation and relationship operations.
 - `FF-006`: partner-localized campaign.
 
-**Fit:** medium transferable.
+**Fit:** medium.
 
 **Missing proof**
-- No confirmed game KOL/media list, campaign or earned-media result.
+- Creator type, selection process, brief, deliverables, review role and outcome are not yet documented.
+- No confirmed game-media relationship or earned-media result.
 - Distributor/channel relationships must not be presented as creator/media relations.
 
 ### C6. Data-driven overseas growth
@@ -193,8 +199,8 @@ The role is not only content creation. It expects one person to connect position
 **Fit:** medium-strong.
 
 **Missing proof**
-- Definitions of “content performance” and baseline are needed.
-- No game-user quality, install, activation, retention, invite or revenue metrics.
+- Definition of “content performance,” baseline and time window are needed.
+- No game-user install, activation, retention, invite, UGC or revenue metrics.
 - Formal A/B testing remains unconfirmed.
 
 ### C7. Community architecture and seed-user operations
@@ -213,16 +219,17 @@ The role is not only content creation. It expects one person to connect position
 - Daily hands-on communication.
 
 **Candidate evidence**
+- `ACE-002`: confirmed operation of relevant game communities, including Discord and Facebook.
+- `ACE-003`: external-creator collaboration.
 - `FF-005`: ongoing partner communication and business reviews.
 - `MG-004`: tiering, training and activation support.
 - `FF-004`: dormant-account reactivation.
-- `ACE-001`: follower growth in a game-content environment.
 
-**Fit:** medium-low transferable.
+**Fit:** medium, with leadership scope pending.
 
-**Critical gaps**
-- No confirmed Discord/Facebook community ownership.
-- No player moderation, role system or ambassador program.
+**Remaining gaps**
+- Community size, role/permission ownership, moderation, onboarding, rituals and ambassador mechanics are unknown.
+- No documented seed-user conversion or community retention metrics.
 - B2B partner operations are not equivalent to player-community operations.
 
 ### C8. UGC and AIGC participation loops
@@ -239,16 +246,17 @@ The role is not only content creation. It expects one person to connect position
 - Content safety and quality review.
 
 **Candidate evidence**
-- `ACE-001`: game-content and audience-growth foundation.
-- `TOOL-003`: current AI/Agent learning.
+- `ACE-001/002/003`: simulation-game content, community and external-creator operations.
+- `ACE-005` and `TOOL-003`: sustained AI-companion/Agent interest and Agent-workflow practice.
 - `G-del Machine Job`: structured AI workflow/product-learning evidence, but not a consumer UGC product.
 - `FF-007`: feedback-to-product thinking.
 
-**Fit:** early/high-gap.
+**Fit:** medium-low/high-upside.
 
 **Missing proof**
-- No UGC campaign or AIGC game-content loop.
+- No documented UGC campaign or AIGC game-content loop.
 - No AI-companion or generative-game prototype.
+- The exact “Illust” team/product name and the candidate’s usage depth need confirmation.
 
 ### C9. Native-level English and cross-cultural internet fluency
 
@@ -257,15 +265,16 @@ The role is not only content creation. It expects one person to connect position
 - Understand Reddit/X trends and local humor.
 
 **Candidate evidence**
+- `ACE-002`: platform experience includes Reddit and X.
 - `FF-005`: independent English negotiation, email, video calls and visits.
 - `BENY-002`: bilingual product content and email results.
 - `EDU-001`: bilingual broadcasting and audience adaptation.
 
-**Fit:** strong business-English base; native cultural-writing level unproven.
+**Fit:** strong business-English and relevant platform base; native cultural-writing level unproven.
 
 **Critical gap**
 - “Business English” is not the same as native-level consumer copy, humor or meme fluency.
-- Two to four English game-community writing samples are required.
+- Two to four English game-community writing samples are still required.
 
 ## 4. Hard gates and screening risk
 
@@ -274,10 +283,10 @@ The role is not only content creation. It expects one person to connect position
 | 3–5 years overseas game publishing or AI-social marketing | Not met directly | Very high |
 | Complete 0→1 overseas product cycle | Transferable India-market entry, no game launch | High |
 | Independent brand/marketing strategy | Partial transferable evidence | High |
-| Indie-game/AI-companion passion | Must be demonstrated through product analysis and usage | Medium-high |
-| Reddit/X cultural fluency | Unverified | High |
-| Discord/community leadership | Unverified | Very high |
-| Creative/aesthetic judgment | ACE gives a real foundation | Medium |
+| Indie-game/AI-companion passion | Confirmed genre affinity and AI interest; analysis artifact needed | Medium |
+| Reddit/X cultural fluency | Platform experience confirmed; depth and English samples pending | Medium-high |
+| Discord/community leadership | Community experience confirmed; scale/ownership pending | High |
+| Creative/aesthetic judgment | ACE gives direct game-content evidence | Medium-low |
 | Native-level English writing | Business/bilingual evidence exists; native consumer-copy proof missing | High |
 | Strategy plus hands-on execution | Strong general evidence | Low-medium |
 | Brand/marketing 0→1 case | Transferable, not direct game case | High |
@@ -286,31 +295,37 @@ The role is not only content creation. It expects one person to connect position
 
 ### ACE directly supports
 
-- Real game-context exposure.
+- Direct experience with a farming/simulation-management game similar in feel to Animal Crossing.
 - Rapid learning of Unity basics.
 - Participation in promotional-video production.
 - Audience-interest analysis.
 - First-five-seconds hook optimization.
 - Editing-rhythm and publishing optimization.
 - Quantified content growth and follower growth.
+- Game-community operations.
+- Discord, Reddit, X, TikTok, YouTube and Facebook experience.
+- External-creator collaboration.
 
 ### ACE does not yet prove
 
-- Overseas audience or English-language operation.
-- Game publishing or launch ownership.
-- Reddit/X/Discord execution.
-- Community moderation and ambassador programs.
-- KOL/media partnerships.
+- Full game-publishing or launch ownership.
+- Platform scale, market/language and user-quality outcomes.
+- Product Hunt execution.
+- Large-community leadership or ambassador-system ownership.
 - Brand-positioning ownership.
+- Game-media relationship ownership.
 - AIGC/AI-companion product operation.
 - 3–5 years of senior experience.
 
-The resume should therefore present ACE as the **game-content and growth foundation**, not as a complete overseas-game-publishing career.
+The resume should therefore present ACE as the **direct simulation-game content, community and growth foundation**, not as a complete senior overseas-game-publishing career.
 
 ## 6. Cross-experience story architecture
 
-### Layer 1 — Game and creative foundation
-- `ACE-001`: Unity, promotional content, hooks, editing rhythm, publishing and growth.
+### Layer 1 — Game, creative and community foundation
+- `ACE-001`: simulation-game context, Unity, promotional content, hooks, editing rhythm, publishing and growth.
+- `ACE-002`: Discord, Reddit, X, TikTok, YouTube and Facebook operations.
+- `ACE-003`: external-creator collaboration.
+- `ACE-004`: long-term simulation/cozy and narrative-game affinity.
 
 ### Layer 2 — Bilingual/localized growth
 - `BENY-001/002`: technical translation, bilingual content and email performance.
@@ -324,7 +339,7 @@ The resume should therefore present ACE as the **game-content and growth foundat
 - `MG-004`: segmentation, training and localized activation.
 
 ### Layer 4 — AI/product direction
-- `TOOL-003`: honest current AI learning.
+- `ACE-005` and `TOOL-003`: AI-companion interest and Agent-workflow practice.
 - `G-del Machine Job`: structured Agent/product project.
 - Future proof: a Zoooo overseas cold-start and community case.
 
@@ -332,28 +347,29 @@ The resume should therefore present ACE as the **game-content and growth foundat
 
 ### Recommended headline
 
-> 海外增长与内容运营｜游戏内容基础｜技术产品国际化｜AI产品方向
+> 海外游戏增长与社区运营｜模拟经营内容｜多平台社媒｜AI产品方向
 
 ### Recommended summary
 
-> 具备游戏内容增长实习经历与2年以上技术产品海外商业化经验，含实习在内近3年国际市场相关经历。曾快速上手Unity并参与游戏宣传内容制作，基于受众数据优化Hook、剪辑节奏与发布方式，实现内容表现翻倍及账号增长；后续积累双语内容、本地化Campaign、海外市场0→1、伙伴运营与英语商务沟通经验。当前重点转向AI原生消费产品与海外游戏增长方向。
+> 具备模拟经营游戏内容、社区及多平台运营经历，并拥有2年以上技术产品海外商业化经验。曾在ACE参与种田/生活模拟类游戏内容与社区运营，快速上手Unity基础制作，覆盖Discord、Reddit、X、TikTok、YouTube及Facebook，并基于受众数据优化Hook、剪辑节奏与发布方式，实现内容表现翻倍及账号增长；后续积累双语内容、本地化Campaign、海外市场0→1、外部创作者协作、伙伴运营与英语商务沟通经验。长期关注模拟经营、Cozy Game、AI陪伴与Agent产品。
 
 ### Evidence order
 
-1. ACE game-content growth.
-2. FF localized overseas campaign.
-3. BENY bilingual content.
-4. MG India 0→1 market entry.
-5. MG/FF overseas research and partnerships.
+1. ACE simulation-game content/community growth.
+2. ACE multi-platform operations and creator collaboration.
+3. FF localized overseas campaign.
+4. BENY bilingual content.
+5. MG India 0→1 market entry.
 6. AI/Agent project and role-specific portfolio.
 
 ## 8. Safe target-resume bullets
 
 ### ACE 游戏社｜内容运营 / 数据化内容增长实习生
 
-- 在1个月内上手Unity基础游戏制作并参与游戏宣传片剪辑，围绕目标受众兴趣点优化内容开头、叙事节奏与素材呈现。
-- 基于发布数据持续调整前5秒Hook、剪辑节奏和发布方式，推动内容表现提升约2倍，并带动账号新增1,000+关注。
-- 将游戏产品理解、受众兴趣与短视频表达结合，为后续游戏内容策略、创意Brief和数据化迭代形成基础。
+- 参与种田与生活模拟类游戏的内容及社区运营，在1个月内上手Unity基础制作并参与宣传片剪辑，将游戏机制理解转化为面向目标玩家的内容表达。
+- 基于受众反馈与发布数据优化前5秒Hook、剪辑节奏和发布方式，推动内容表现提升约2倍，并带动账号新增1,000+关注。
+- 参与Discord、Reddit、X、TikTok、YouTube及Facebook等平台的游戏内容与社区运营，结合不同平台的内容形式和互动方式维护玩家触达。
+- 与外部创作者协作推进社区内容和互动活动，参与沟通、内容配合及发布执行。
 
 ### Supporting overseas-growth bullets
 
@@ -367,7 +383,8 @@ The resume should therefore present ACE as the **game-content and growth foundat
 
 - “3–5年海外游戏发行经验”.
 - “主导游戏完整出海周期”.
-- “熟练运营Reddit、X、Discord、Product Hunt” before verification.
+- “独立负责全部海外平台” before role boundaries are confirmed.
+- “熟练运营Product Hunt” before verification.
 - “母语级英语”.
 - “负责大型Discord社区”.
 - “具备欧美独立游戏圈层资源”.
@@ -399,7 +416,7 @@ This is more valuable than a generic personal website. It directly attacks the l
 The website should place this role-specific case near the top:
 
 1. Zoooo overseas cold-start strategy.
-2. ACE game-content growth case.
+2. ACE simulation-game content/community growth case.
 3. Localized overseas campaign case.
 4. G-del AI product/Agent case.
 5. Customer-intelligence workflow.
@@ -407,42 +424,45 @@ The website should place this role-specific case near the top:
 
 Each page should show problem, audience, decision, artifact, metric, iteration and limitation. Avoid a decorative biography-only site.
 
-## 12. Questions required to strengthen ACE and this application
+## 12. Remaining questions required to strengthen ACE and this application
 
-1. What exact game/project did ACE work on, and what genre was it?
+1. What was the exact game/project name, and may it be named publicly?
 2. Was “ACE游戏社” the official organization name, and was it a company, studio, club or project team?
-3. Which platforms/accounts did you operate or contribute to?
-4. Was the audience domestic, overseas or mixed? Which countries/languages?
-5. How many videos/posts did you produce or edit?
+3. Was the audience domestic, overseas or mixed? Which countries and languages?
+4. Which platform accounts did you own directly, and which did you support?
+5. How many videos/posts/community activities did you produce or operate?
 6. What did “content performance doubled” mean: views, completion, engagement, followers or another metric?
 7. What was the baseline and time window for the 1,000+ follower growth?
-8. Did you write copy, design storyboards or create briefs for art/editing teams?
-9. What Unity work did you complete: scene building, animation, capture, asset placement, gameplay or only basic learning?
-10. Did you read and reply to player comments or manage a community?
-11. Did you use Discord, Reddit, X, TikTok, YouTube or Facebook in the ACE role?
-12. Did you coordinate with developers, artists, designers or external creators?
-13. Do you personally play simulation/cozy/indie games? Which ones, for how long, and what product observations do you have?
-14. Have you used AI-companion or AI-social products? What drives emotional retention and what causes discomfort?
-15. Can you write four English samples for Reddit, X, Discord and creator outreach?
-16. Are Premiere Pro and After Effects skills confirmed, and at what level?
+8. Did you write copy, scripts, storyboards or creative briefs?
+9. What Unity work did you complete: scene building, animation, capture, asset placement, gameplay or basic learning only?
+10. What community work did you personally own: posting, replies, moderation, onboarding, roles, events or analytics?
+11. What were the community sizes and engagement levels?
+12. Which external creators did you work with, how were they selected and what result followed?
+13. Which simulation/cozy/text games have you played most deeply, and what retention or emotional-design observations can you explain?
+14. Is the Japanese rice-farming game 《天穗之咲稻姬》?
+15. What is the exact name of the “Illust” AI-companion team/product?
+16. Which Agent workflows have you built personally, and what evidence can be shown?
+17. Can you write four English samples for Reddit, X, Discord and creator outreach?
+18. Are Premiere Pro and After Effects skills confirmed, and at what level?
 
 ## 13. Interview story set
 
-1. **Game creative iteration** — ACE hook/rhythm/publishing changes and quantified result.
-2. **Rapid game-tool learning** — Unity learning process and how it improved content understanding.
-3. **Localized overseas campaign** — FF campaign insight, creative choice and business effect.
-4. **0→1 market entry** — India partner discovery and execution, reframed as cold-start discipline.
-5. **Cross-cultural content** — bilingual content and English communication.
-6. **AI-product transition** — why AI companionship/simulation is a logical continuation rather than a sudden career change.
-7. **Failure story** — one content idea or channel that underperformed, diagnosis and subsequent change.
+1. **Simulation-game creative iteration** — ACE hook/rhythm/publishing changes and quantified result.
+2. **Multi-platform community operations** — how content and interaction differed across Discord, Reddit, X, TikTok, YouTube and Facebook.
+3. **External-creator collaboration** — creator alignment, content coordination and community outcome.
+4. **Rapid game-tool learning** — Unity learning process and how it improved content understanding.
+5. **Localized overseas campaign** — FF campaign insight, creative choice and business effect.
+6. **0→1 market entry** — India partner discovery and execution, reframed as cold-start discipline.
+7. **AI-product transition** — why AI companionship/simulation is a logical continuation rather than a sudden career change.
+8. **Failure story** — one content idea, creator collaboration or channel that underperformed, diagnosis and subsequent change.
 
 ## 14. Final decision
 
-This role is probably the candidate’s **best narrative match**, but not automatically the easiest screen.
+This role is the candidate’s **best narrative match**, but not automatically the easiest screen.
 
 - It is more coherent than Harness PM because it accepts growth, content, marketing and community evidence rather than requiring a formal PM track.
-- It is more personally differentiated than AMiner because ACE supplies real game-context evidence.
-- It is harder than both on direct seniority, overseas game publishing, community-platform fluency and native consumer English.
+- It is more personally differentiated than AMiner because ACE now supplies direct simulation-game, community, platform and creator-collaboration evidence.
+- It remains difficult on direct seniority, full game-publishing ownership, community scale, lifecycle metrics and native consumer English.
 
 The correct strategy is to **apply as a high-upside transition candidate with a targeted case**, not to claim direct senior equivalence.
 
@@ -450,9 +470,16 @@ The correct strategy is to **apply as a high-upside transition candidate with a 
 
 - User-supplied BOSS company-jobs page: https://www.zhipin.com/gongsi/job/18815b858c0b88250nd72N66Fw~~.html?query=%E6%B5%B7%E5%A4%96
 - Search-indexed job mirror: LinkedIn listing for `AI产品海外游戏运营（AI+模拟经营方向）`, checked 2026-06-28.
-- Candidate evidence: `CAREER_EVIDENCE_DATABASE.md` and uploaded resume archive.
+- Candidate evidence: `CAREER_EVIDENCE_DATABASE.md`, user confirmation and uploaded resume archive.
 
 ## 16. Change log
+
+### 2026-06-28 — v0.2
+- Confirmed the ACE project as a farming/simulation-management game similar to Animal Crossing.
+- Confirmed Discord, Reddit, X, TikTok, YouTube and Facebook operations experience.
+- Confirmed external-creator collaboration and long-term simulation/cozy-game affinity.
+- Upgraded platform/community fit while preserving scope, scale, lifecycle and seniority gaps.
+- Rewrote the target summary, ACE bullets, screening risks and remaining questions.
 
 ### 2026-06-28 — v0.1
 - Captured the exact role identity and current JD structure.
