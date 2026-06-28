@@ -8,6 +8,7 @@ This directory stores the candidate's reusable experience evidence and target-ro
 - `JOB_REQUIREMENTS_DATABASE.md` — lightweight registry for target JDs, hidden capability demands, candidate-fit mapping, training gaps and portfolio actions.
 - `ZHIPU_ROLE_REQUIREMENTS.md` — detailed current module for verified Zhipu JDs, capability trees, resume evidence mapping and portfolio requirements.
 - `ZHIPU_AI_GAME_OVERSEAS_OPERATIONS.md` — focused module for the AI+simulation overseas-game-operations role, ACE evidence mapping, screening gaps and portfolio plan.
+- `resumes/ZHIPU_AI_GAME_OPERATIONS_RESUME_V1.md` — anonymized one-page content draft for the AI overseas-game-operations target.
 - `BASELINE_RESUME.md` — immutable, anonymized baseline extracted from the current resume.
 - `EXPERIENCE_APPEND_ONLY.md` — source log for new facts, projects, achievements, interview feedback and corrections. Append only.
 - `SEARCH_INDEX.md` — searchable capability and evidence index. It may be regenerated, but source entries are never deleted.
