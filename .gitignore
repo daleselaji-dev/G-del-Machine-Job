@@ -1,0 +1,6 @@
+memory/private/
+artifacts/private/
+*.local.md
+*.private.md
+.env
+.DS_Store
