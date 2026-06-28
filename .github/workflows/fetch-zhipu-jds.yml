@@ -1,0 +1,110 @@
+name: Fetch Zhipu JDs
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install browser tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright requests beautifulsoup4
+          python -m playwright install chromium
+
+      - name: Fetch short links and rendered pages
+        run: |
+          mkdir -p jd_capture
+          cat > /tmp/fetch_jds.py <<'PY'
+          import json, pathlib, requests
+          from playwright.sync_api import sync_playwright
+
+          urls = {
+              "uCg4u": "https://app.mokahr.com/su/uCg4u",
+              "HzU5m": "https://app.mokahr.com/su/HzU5m",
+              "nuelG": "https://app.mokahr.com/su/nuelG",
+          }
+          out = pathlib.Path("jd_capture")
+          out.mkdir(exist_ok=True)
+
+          session = requests.Session()
+          session.headers.update({"User-Agent": "Mozilla/5.0"})
+          redirect_summary = {}
+          for key, url in urls.items():
+              try:
+                  r = session.get(url, allow_redirects=True, timeout=30)
+                  redirect_summary[key] = {
+                      "requested": url,
+                      "history": [{"status": h.status_code, "url": h.url, "location": h.headers.get("location")} for h in r.history],
+                      "final_url": r.url,
+                      "status": r.status_code,
+                      "headers": dict(r.headers),
+                      "body_prefix": r.text[:2000],
+                  }
+              except Exception as e:
+                  redirect_summary[key] = {"requested": url, "error": repr(e)}
+          (out / "redirects.json").write_text(json.dumps(redirect_summary, ensure_ascii=False, indent=2), encoding="utf-8")
+
+          with sync_playwright() as p:
+              browser = p.chromium.launch(headless=True)
+              context = browser.new_context(locale="zh-CN", user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36")
+              for key, url in urls.items():
+                  page = context.new_page()
+                  responses = []
+                  page.on("response", lambda resp, arr=responses: arr.append({"url": resp.url, "status": resp.status, "content_type": resp.headers.get("content-type", "")}))
+                  try:
+                      page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                      page.wait_for_timeout(12000)
+                      try:
+                          page.wait_for_load_state("networkidle", timeout=15000)
+                      except Exception:
+                          pass
+                      data = {
+                          "requested": url,
+                          "final_url": page.url,
+                          "title": page.title(),
+                          "text": page.locator("body").inner_text(timeout=10000),
+                          "responses": responses,
+                      }
+                      (out / f"{key}.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+                      (out / f"{key}.html").write_text(page.content(), encoding="utf-8")
+                      page.screenshot(path=str(out / f"{key}.png"), full_page=True)
+                  except Exception as e:
+                      (out / f"{key}-error.txt").write_text(repr(e), encoding="utf-8")
+                  finally:
+                      page.close()
+              browser.close()
+          PY
+          python /tmp/fetch_jds.py
+
+      - name: Print summaries
+        run: |
+          echo '=== redirects ==='
+          cat jd_capture/redirects.json || true
+          for f in jd_capture/*.json; do
+            echo "=== $f ==="
+            python - "$f" <<'PY'
+          import json, sys
+          p=sys.argv[1]
+          d=json.load(open(p,encoding='utf-8'))
+          print('final_url:', d.get('final_url'))
+          print('title:', d.get('title'))
+          text=d.get('text','')
+          print(text[:12000])
+          PY
+          done
+
+      - name: Upload captures
+        uses: actions/upload-artifact@v4
+        with:
+          name: zhipu-jd-captures
+          path: jd_capture
+          retention-days: 1
