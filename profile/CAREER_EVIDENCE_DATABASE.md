@@ -1,7 +1,7 @@
 # Career Evidence Database
 
 status: ACTIVE_CANONICAL_RESUME_POOL  
-version: v1.0  
+version: v1.1  
 created_at: 2026-06-28  
 last_updated: 2026-06-28  
 privacy: anonymized; no contact details, portrait, private recruiter messages or confidential identifiers  
@@ -41,6 +41,13 @@ use: resume generation, JD matching, interview stories and evidence-gap discover
 - **Preferred:** 2+ years of technical-product overseas BD, with nearly 3 years of international-market-related experience including internships.
 - **Chinese:** 2年以上技术产品海外业务经验，含实习在内近3年国际市场相关经历。
 - **Avoid before chronology recheck:** “3 years of overseas sales/KA/sales-operations experience.”
+
+### POS-003 — AI overseas-game operations route
+- **Status:** `DERIVED`
+- **Chinese:** 海外增长与内容运营｜模拟经营游戏内容及社区基础｜技术产品国际化｜AI产品方向。
+- **Evidence chain:** simulation-game content/community operations → multi-platform social distribution → external-creator collaboration → bilingual/localized campaigns → overseas 0→1 execution → Agent/product learning.
+- **Target routes:** AI consumer-product overseas operations, overseas game growth, community operations, game-content strategy and AI-social internationalization.
+- **Do not claim:** senior overseas-game publishing ownership or 3–5 years of direct game-industry experience.
 
 ## 3. Timeline conflicts
 
@@ -177,14 +184,42 @@ use: resume generation, JD matching, interview stories and evidence-gap discover
 - Claims: three SEO articles and English-speaking product videos.
 - Confirm keywords, links, traffic/leads, number of videos and audience.
 
-### ACE-001 — Data-driven content growth
-- **Status:** `CONFIRMED`
-- Learned basic Unity production within one month.
-- Optimized hooks, editing rhythm and publishing method.
+### ACE-001 — Simulation-game content and data-driven growth
+- **Status:** `CONFIRMED_USER + RESUME_SOURCE`
+- Worked on a farming/simulation-management game with a cozy-life structure described as similar to Animal Crossing.
+- Learned basic Unity production within one month and participated in promotional-video editing.
+- Used audience signals to optimize the first five seconds, editing rhythm and publishing approach.
 - Doubled content performance and added 1,000+ followers.
-- **Preferred wording:** Used audience data to optimize hooks, editing rhythm and release methods, doubling content performance and adding 1,000+ followers.
+- **Preferred wording:** Quickly learned Unity basics for a farming/simulation game and combined product understanding with audience data to optimize hooks, editing rhythm and publishing, doubling content performance and adding 1,000+ followers.
+- **Expand with:** exact game/project name, platform, content volume, metric definition, baseline and time window.
 
-### ACE-002 — Video tools
+### ACE-002 — Overseas game-community and social-platform operations
+- **Status:** `CONFIRMED_USER + SCOPE_PENDING`
+- User confirms operating relevant game communities and content on Discord, Reddit, X, TikTok, YouTube and Facebook.
+- **Safe wording:** Participated in multi-platform game-community and social-content operations across Discord, Reddit, X, TikTok, YouTube and Facebook.
+- **Do not claim yet:** platform ownership, large-community leadership, paid acquisition, launch ownership or specific community scale.
+- **Expand with:** market/language, account role, posting frequency, community size, moderation responsibility, engagement and conversion.
+
+### ACE-003 — External-creator collaboration
+- **Status:** `CONFIRMED_USER + SCOPE_PENDING`
+- Collaborated with external creators as part of community/content operations.
+- **Safe wording:** Coordinated with external creators to support game-community content and engagement activities.
+- **Expand with:** creator type, selection/outreach, brief, deliverables, review process and outcome.
+
+### ACE-004 — Simulation/cozy-game affinity
+- **Status:** `CONFIRMED_USER`
+- Long-term player of simulation/cozy and narrative games, including Animal Crossing, Stardew Valley, a Japanese rice-farming title likely referring to Sakuna: Of Rice and Ruin, and classic text-based games.
+- **Resume use:** interests/product-affinity line or interview evidence; not a substitute for operating results.
+- **Expand with:** play time, favorite systems, retention observations, community behavior and product critiques.
+
+### ACE-005 — AI-companion and Agent direction
+- **Status:** `CONFIRMED_USER_CORE + PRODUCT_NAME_PENDING`
+- User has reviewed works attributed to an “Illust” team/product; the exact English name and product require confirmation.
+- User reports substantial Agent-related practice and learning.
+- **Safe wording:** Has sustained hands-on interest in AI-companion products and Agent workflows, with project evidence to be documented separately.
+- **Do not claim yet:** AI-companion product operating experience, shipped consumer-AI product or expert-level Agent engineering.
+
+### ACE-006 — Video tools
 - **Status:** `IMPORTED_PENDING`
 - Premiere Pro and After Effects proficiency requires confirmation.
 
@@ -205,7 +240,7 @@ use: resume generation, JD matching, interview stories and evidence-gap discover
 ### TOOL-001 — Research
 - **Status:** `CONFIRMED`
 - Google Search, LinkedIn, WhatsApp, customs/import-export data, industry reports, social research, account profiling and segmentation.
-- Instagram, Facebook and Google Maps/store reviews remain pending.
+- Instagram and Google Maps/store reviews remain pending.
 
 ### TOOL-002 — Business systems
 - **Status:** `CONFIRMED_CORE`
@@ -213,11 +248,17 @@ use: resume generation, JD matching, interview stories and evidence-gap discover
 - Excel pivot tables, PSI ownership and exact systems/modules remain pending.
 
 ### TOOL-003 — AI/Agent
-- **Status:** `CURRENT_GAP`
-- Confirmed: actively learning Agent concepts and using AI tools.
-- **Safe wording:** Uses AI tools for research and workflow support and is building public Agent/evaluation evidence.
-- **Excluded now:** “深入掌握AI技术和不同AI Agent.”
+- **Status:** `CONFIRMED_USER_CORE + PROOF_PENDING`
+- Confirmed: sustained Agent-related practice, AI-tool use for research/workflow support and current G-del Machine Job development.
+- **Safe wording:** Uses AI tools and Agent workflows for structured research, evidence management and workflow design, and is building public evaluation evidence.
+- **Excluded now:** “深入掌握AI技术和不同AI Agent” or expert/production claims without artifacts.
 - **Needed:** Agent demo, test set, output comparison, bad-case analysis, human review and measurable outcome.
+
+### TOOL-004 — Game-community platforms
+- **Status:** `CONFIRMED_USER + DEPTH_PENDING`
+- Discord, Reddit, X, TikTok, YouTube and Facebook experience in a game/community context.
+- **Safe wording:** Multi-platform game-community and social-operations experience across Discord, Reddit, X, TikTok, YouTube and Facebook.
+- **Needed:** account links where shareable, content samples, role boundaries, market/language, community metrics and moderation examples.
 
 ## 8. Reusable story bank
 
@@ -232,6 +273,8 @@ use: resume generation, JD matching, interview stories and evidence-gap discover
 | Project-cycle reduction | MG-005 | How do you coordinate teams? | stakeholder map and outcome |
 | Product feedback | FF-007 | How do you turn feedback into action? | exact change and result |
 | Content-to-growth | BENY-002/ACE-001 | Can content drive outcomes? | attribution and experiment design |
+| Game community and platform operations | ACE-001/002/003 | How did you grow and operate a game community? | platform scope, community size, content volume and conversion |
+| Simulation-game user insight | ACE-004 | Why this genre and audience? | play history and product observations |
 | Delivery crisis | MG-008 | How do you manage operational risk? | chronology, ownership and result |
 
 ## 9. Role retrieval packs
@@ -239,8 +282,9 @@ use: resume generation, JD matching, interview stories and evidence-gap discover
 - **PACK-A — Technical-product international commercialization:** MG-001/002/003/005; FF-001/002/003/005/006.
 - **PACK-B — Enterprise AI/MaaS commercialization:** POS-001; MG-002/005; FF-001/002/007; TOOL-003. State the AI portfolio gap honestly.
 - **PACK-C — Customer success/partner operations:** MG-004/005; FF-004/005/006/007; BENY-002.
-- **PACK-D — AI product/Agent operations:** FF-001/007; MG-004; BENY-001/002; ACE-001; TOOL-003. Do not claim direct PM experience.
+- **PACK-D — AI product/Agent operations:** FF-001/007; MG-004; BENY-001/002; ACE-001/005; TOOL-003. Do not claim direct PM experience.
 - **PACK-E — Sales operations:** MG-005/007/008; FF-003/004/007. Confirm dashboards, forecast accuracy and efficiency metrics.
+- **PACK-F — AI overseas-game/community operations:** POS-003; ACE-001/002/003/004/005; BENY-002; FF-006; MG-001/003; TOOL-003/004. State seniority, launch, community-scale and English-copy gaps honestly.
 
 ## 10. Confirmation queue
 
@@ -258,6 +302,13 @@ use: resume generation, JD matching, interview stories and evidence-gap discover
 12. Customs/factory crisis, 60% response metric and 30% stockout claim.
 13. CET-6, award, video tools, Excel pivots and A/B tests.
 14. Replace broad AI mastery claims with project evidence.
+15. ACE official organization/project name and exact simulation-game title.
+16. ACE market/language, platform-by-platform role and account ownership.
+17. ACE content volume, definition of 2× performance, baseline and time window for 1,000+ followers.
+18. ACE community size, moderation, seed-user and ambassador responsibilities.
+19. External-creator collaboration: creator type, brief, output and results.
+20. Confirm whether the Japanese rice-farming title is 《天穗之咲稻姬》.
+21. Confirm the exact “Illust” AI-companion team/product name and usage depth.
 
 ## 11. Highest-value expansion backlog
 
@@ -267,8 +318,16 @@ use: resume generation, JD matching, interview stories and evidence-gap discover
 - **Operating system:** account-scoring fields, CRM/ERP workflow, forecast and dashboard decisions.
 - **Failure evidence:** one lost deal, wrong judgment, delay and failed campaign, plus the change afterward.
 - **AI transition:** turn FF-001 into a customer-intelligence Agent with a benchmark, output comparison, bad-case analysis and measurable improvement.
+- **Game transition:** turn ACE into a complete case with genre insight, channel roles, creative samples, community architecture, creator collaboration, metrics and one failed/iterated campaign.
 
 ## 12. Change log
+
+### 2026-06-28 — v1.1
+- Expanded ACE from a generic content-growth internship into confirmed simulation-game, community and multi-platform evidence.
+- Added confirmed Discord, Reddit, X, TikTok, YouTube and Facebook experience with scope still pending.
+- Added external-creator collaboration, simulation/cozy-game affinity and AI-companion/Agent direction.
+- Added an AI overseas-game operations positioning and retrieval pack.
+- Preserved seniority, platform-depth, metric, launch and product-name gaps.
 
 ### 2026-06-28 — v1.0
 - Created the fixed career evidence database.
