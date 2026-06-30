@@ -17,9 +17,9 @@ Format: `Company | State | Current reason | Reactivation / next evidence`
 
 | Company | State | Current reason | Reactivation / next evidence |
 |---|---|---|---|
-| DeepSeek | PRIORITY_PRODUCT | Product, Agent, data and cross-domain routes are the current strategic priority. | Verify current official role, location, employment type and compensation; add portfolio evidence. |
-| 智谱 / Z.ai | PRIORITY_DIRECT | MaaS solutions, industry BD, ecosystem and large-model sales are direct transition routes. | Verify current Hangzhou openings, compensation, sales-support boundary and team attainment. |
-| 宇树科技 | WATCH | Direction is attractive; no verified current fit is recorded. | Reactivate when a current role fits level, location and compensation. |
+| DeepSeek | PRIORITY_PRODUCT_WATCH | Official join path and recent expansion evidence exist; exact readable role details were not verified in the 2026-06-30 run because the Mokahr listing failed to parse. | Verify current official title, location, application path, employment type and compensation; add portfolio evidence before product/Agent roles. |
+| 智谱 / Z.ai | WATCH | MaaS, GLM/API and Agent directions remain strategically aligned, but the 2026-06-30 run did not verify a current readable Hangzhou role page. | Verify current Hangzhou openings, compensation, sales-support boundary and team attainment. |
+| 宇树科技 | PRIORITY_BRIDGE | Official Hangzhou job page currently lists robot data operations, solution engineer, technical support and overseas sales roles matching direct or transferable evidence. | Verify salary, experience threshold, work system and target-team employer quality before application. |
 | 思看科技 | PAUSED | Previously explored; current role economics did not fit the active campaign. | Reassess for a materially different role or compensation structure. |
 | 涂鸦智能 | CAUTION | Product direction is relevant; employer/team evidence needs stronger verification. | Verify target-team compensation, work system, manager quality, turnover and attainment. |
 | MiniMax | PAUSED_BY_USER | User does not want this company included in the active recommendation set. | Reassess only after explicit user request. |
