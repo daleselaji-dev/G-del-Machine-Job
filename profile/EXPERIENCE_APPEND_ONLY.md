@@ -61,3 +61,49 @@ Use this file for verified additions, corrections, projects and interview feedba
 - Content: Candidate experience material is maintained as an append-only archive. New information enriches the profile; earlier substantive records remain available for retrieval.
 - Evidence: implemented through the profile archive files.
 - Tags: append-only, resume archive, retrieval
+
+### APP-20260628-06 — ACE internship chronology correction
+
+- Type: CORRECTION
+- Source: candidate confirmation in career-agent conversation
+- Date recorded: 2026-06-28
+- Content: ACE 游戏社 experience should be recorded as 2023-06 to 2024-06, covering approximately one year from internship through continued project participation.
+- Evidence: explicit candidate confirmation.
+- Tags: ACE, chronology, game operations, internship
+- Supersedes: earlier 2023-06 to 2024-01 end date in resume-facing records.
+
+### APP-20260628-07 — ACE platform ownership and content cadence
+
+- Type: USER_STATED
+- Source: candidate confirmation in career-agent conversation
+- Date recorded: 2026-06-28
+- Content: The candidate led most social-media operations. TikTok and Instagram were independently operated; Discord community operations were shared with teammates. The candidate produced approximately 10–15 posts/videos per month and ran approximately two community activities per month.
+- Evidence: explicit candidate confirmation; account links and platform-by-platform samples remain to be collected.
+- Tags: ACE, TikTok, Instagram, Discord, content operations, community cadence
+
+### APP-20260628-08 — ACE community and engagement outcomes
+
+- Type: USER_STATED
+- Source: candidate confirmation in career-agent conversation
+- Date recorded: 2026-06-28
+- Content: “Content performance doubled” refers specifically to interaction rate. During the candidate’s operating period, the Discord community was built from zero to approximately 150 members, with active discussion across community sections. The community later reached several hundred members; that later total should not be presented as the candidate’s direct personal result without attribution evidence.
+- Evidence: explicit candidate confirmation.
+- Tags: ACE, Discord, community growth, engagement rate, attribution
+
+### APP-20260628-09 — ACE Western KOL and game-media collaboration
+
+- Type: USER_STATED
+- Source: candidate confirmation in career-agent conversation
+- Date recorded: 2026-06-28
+- Content: The candidate has experience finding and collaborating with Western game-related KOLs and game media, including understanding creator discovery, qualification, outreach, collaboration communication, content direction and execution follow-up.
+- Evidence: explicit candidate confirmation; creator count, campaign examples, deliverables and results remain to be collected.
+- Tags: ACE, KOL operations, game media, Western creators, outreach, collaboration
+
+### APP-20260628-10 — Target-resume selection rule
+
+- Type: USER_STATED
+- Source: candidate confirmation in career-agent conversation
+- Date recorded: 2026-06-28
+- Content: For the AI overseas-game-operations resume, remove the new-energy marketing internship from the one-page target version and consolidate relevant KOL-operation evidence under ACE. Preserve the removed internship in the long-term evidence archive for other role versions.
+- Evidence: explicit candidate instruction.
+- Tags: target resume, evidence selection, ACE, KOL, new energy
