@@ -16,12 +16,13 @@ This repository is canonical. Do not treat prior chat or Google Drive as authori
 Read, in order:
 
 1. `docs/CONSTITUTION.md`
-2. `memory/STATE.md`
-3. `memory/PREFERENCES_AND_COMPANY_LEDGER.md`
-4. `profile/SEARCH_INDEX.md`
-5. `docs/EVIDENCE_AND_DD.md`
-6. `docs/FIELD_ONBOARDING_MAP.md`
-7. `evals/EVALUATION_TASKS.md`
+2. `docs/RUN_LOAD_REFERENCE.md` — task-specific startup map, including when to load `docs/EVOLUTION_PROTOCOL.md` and workflow references
+3. `memory/STATE.md`
+4. `memory/PREFERENCES_AND_COMPANY_LEDGER.md`
+5. `profile/SEARCH_INDEX.md`
+6. `docs/EVIDENCE_AND_DD.md`
+7. `docs/FIELD_ONBOARDING_MAP.md`
+8. `evals/EVALUATION_TASKS.md`
 
 Use `profile/SEARCH_INDEX.md` to locate relevant evidence IDs. Open `profile/BASELINE_RESUME.md` and `profile/EXPERIENCE_APPEND_ONLY.md` only for the evidence needed by the current task.
 
