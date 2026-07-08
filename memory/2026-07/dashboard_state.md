@@ -6,48 +6,55 @@ Last updated: 2026-07-08
 
 | Direction | Status | Note |
 |---|---|---|
-| AI commercialization / MaaS / solutions | active | primary future-facing route; Z.ai/DeepSeek official-role refresh needed |
-| Intelligent hardware / robotics overseas roles | active | strongest signal today; Unitree has current official YRD roles |
-| Industrial software / automation / machine vision | active | SEER and Deep Robotics sit near this route |
-| Semiconductor / storage / data-center supply chain | active | Moore Threads watch; exact role/city verification needed |
-| Medical technology / advanced devices | exploratory | not covered in today's trial run |
-| AI product operations / Agent data | portfolio-gated | Unitree data/evaluation roles show adjacent evidence path |
+| Robotics / embodied AI / intelligent hardware | active strongest today | Unitree is current L2-lite/P1 because official Hangzhou role evidence exists |
+| Industrial automation / AMR / machine vision | active watch | SEER has strong product/ecosystem signal but current role evidence is still missing |
+| AI commercialization / MaaS / solutions | active strategic | Z.ai/DeepSeek remain strategic, but current Hangzhou/Shanghai role evidence is required before recommendation |
+| AI infrastructure / vector DB / data/cloud | active watch | Zilliz remains relevant but China/YRD role evidence is weak in this run |
+| Semiconductor / storage / data-center supply chain | active watch | Moore Threads/AI chip route relevant; exact YRD sales/solution roles still unverified |
+| Medical technology / advanced devices | exploratory | Fourier/medtech robotics kept as watch, not a current recommendation |
 
 ## Current company pipeline
 
 | Company | Stage | Rating | Next action |
 |---|---|---|---|
-| Unitree / 宇树科技 | L2 candidate | P1 | Run L2-lite on solution engineer / overseas sales / KA sales roles |
-| SEER Robotics / 仙工智能 | L1 candidate | P1/P2 WATCH | Verify current roles and employer quality |
-| Deep Robotics / 云深处 | L0-pass / WATCH | P2/WATCH | Find role evidence outside blocked BOSS page |
-| Moore Threads / 摩尔线程 | WATCH | P2/WATCH | Verify exact YRD/sales/solution role mapping |
-| Zilliz | WATCH | WATCH | Recheck China/YRD roles; parsed careers page showed overseas roles only |
-| Z.ai / 智谱 | WATCH | WATCH | Dedicated Hangzhou/Shanghai MaaS role refresh |
+| Unitree / 宇树科技 | L2-lite | P1 | Build tailored resume and interview validation for solution engineer first |
+| SEER Robotics / 仙工智能 | L1 / WATCH | WATCH | Verify current overseas/solution/ecosystem roles and employer quality |
+| Deep Robotics / 云深处 | L0-pass / WATCH | WATCH | Find current role evidence outside blocked BOSS path |
+| AgiBot / 智元机器人 | WATCH | WATCH | Verify commercial/solution openings and commercialization maturity |
+| Fourier / 傅利叶智能 | WATCH | WATCH | Verify medical/robotics sales or solution openings and pay/work-style fit |
+| Hikrobot / 海康机器人 | P2/WATCH | P2/WATCH | Search specific overseas/solution/BD roles in Hangzhou/YRD |
+| Z.ai / 智谱 | Strategic WATCH | WATCH | Dedicated Hangzhou/Shanghai MaaS/Agent/solution role refresh |
+| DeepSeek | Strategic WATCH | WATCH | Verify public/current product/Agent/commercial roles |
+| Moore Threads / 摩尔线程 | WATCH | WATCH | Verify exact YRD sales/solution role mapping |
+| Zilliz | WATCH | WATCH | Recheck China/YRD roles later |
 
 ## Current role pipeline
 
 | Company | Role | Status | Next action |
 |---|---|---|---|
-| Unitree | 解决方案工程师 / 技术支持工程师 / 海外销售专员/经理 / 大客户销售经理/总监 | official page current | L2-lite and interview-validation prep |
-| Deep Robotics | unknown role family | blocked / unverified | search alternative public sources |
-| SEER Robotics | unknown role family | unverified | search official/open role sources |
-| Moore Threads | sales/solution role hypothesis | unverified | parse recruitment portal or alternative sources |
-| Z.ai | MaaS / solution / ecosystem roles | unverified today | official-role refresh |
+| Unitree | 解决方案工程师 | official current Hangzhou role | Primary route: resume + interview-validation prep |
+| Unitree | 海外销售专员/经理 | official current Hangzhou role | Compare as direct-fit commercial route |
+| Unitree | 技术支持工程师 | official current Hangzhou role | Evaluate as product-understanding bridge, not first choice |
+| Unitree | 大客户销售经理/总监 | official current Hangzhou role | Evaluate only if level/resources fit |
+| SEER | overseas / solution / ecosystem roles | unverified | Search official and recruiting platforms |
+| Z.ai / DeepSeek | MaaS / Agent / product ops / solution | unverified | Dedicated role refresh |
 
 ## Interview queue
 
 | Company | Role | Validation focus | Next step |
 |---|---|---|---|
-| Unitree | Solution / overseas / KA route | salary, work system, customer ownership, sales-support boundary | prepare questions after L2-lite |
+| Unitree | Solution engineer | fixed pay, work system, quota, sales/support/delivery boundary, industry line, team attainment | prepare tailored resume and interview questions |
+| Unitree | Overseas sales | fixed pay, region ownership, channel model, after-sales/spare-parts/certification boundary | compare after solution engineer |
 
 ## Current largest unknowns
 
-1. Unitree compensation, work system, team support and customer ownership.
-2. SEER / Deep Robotics current role evidence and employer quality.
-3. Z.ai and DeepSeek official current role availability in Hangzhou/Shanghai.
+1. Unitree compensation, work system, team support, customer ownership and delivery burden.
+2. SEER / Deep Robotics / AgiBot / Fourier current commercial or solution-role evidence.
+3. Z.ai and DeepSeek current Hangzhou/Shanghai MaaS/Agent/solution role availability.
+4. Employer-quality evidence from 职Q/看准/脉脉/BOSS remains incomplete.
 
 ## Next three actions
 
-1. Run L2-lite on Unitree's solution engineer, technical support, overseas sales and KA sales roles.
-2. Search SEER and Deep Robotics roles through official/LinkedIn/猎聘/BOSS alternative sources.
-3. Run a focused Z.ai/DeepSeek Hangzhou/Shanghai official-role refresh.
+1. Create Unitree solution-engineer resume and interview-validation sheet.
+2. Search SEER, Deep Robotics, AgiBot and Fourier for current overseas/solution roles plus employer samples.
+3. Run dedicated Z.ai / DeepSeek / Alibaba Cloud / Volcano Engine / ModelBest MaaS-Agent commercial-role refresh.
