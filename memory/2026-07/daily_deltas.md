@@ -18,6 +18,17 @@ YYYY-MM-DD
 
 ## Entries
 
+### 2026-07-08 — Preflight deep report automation
+
+- Direction changes: GitHub preflight succeeded before external search; robotics / embodied AI remains the only currently actionable strongest direction because Unitree official role evidence exists. AMR/industrial automation, large-model/MaaS, AI infra and domestic AI chips remain active WATCH routes pending role evidence.
+- Companies promoted: none beyond previous Unitree L2-lite / P1. Unitree stays P1, not P0, because salary, work system, team quality and sales/pre-sales/delivery boundary remain unresolved.
+- Companies downgraded: SEER, Deep Robotics, AgiBot, Fourier, Hikrobot, Z.ai, DeepSeek, Moore Threads and Zilliz remain WATCH/P2-WATCH until current role evidence and employer-risk evidence improve.
+- Roles added: no durable new role added. Unitree official current roles reconfirmed from official careers page: solution engineer, technical support engineer, overseas sales specialist/manager, KA sales manager/director.
+- Evidence gaps opened/closed: no major gap closed. Open gaps remain around Unitree compensation/work-style/team quality and role boundary; current-role evidence for SEER/Deep Robotics/AgiBot/Fourier/Hikrobot/Z.ai/DeepSeek/Moore Threads/Zilliz remains incomplete.
+- Interview queue changes: Unitree solution engineer remains first validation item; Unitree overseas sales remains comparison route.
+- Memory updates proposed: daily_deltas and workflow_improvements updated. dashboard_state/company_queue/evidence_gaps remain directionally valid from prior deep report.
+- Workflow issues: HTML generation failed due to automation runtime file-write restriction; report delivered in chat. Prior user feedback that automation skipped GitHub was corrected in this run by requiring and visibly passing a GitHub Preflight Checklist. Record an evolution trigger if any future comparable run again begins external search before repository preflight.
+
 ### 2026-07-08 — Deep report test
 
 - Direction changes: robotics / embodied AI remains the strongest current actionable direction; large-model/MaaS remains strategic but role-evidence-gated; AMR/industrial automation and AI chips remain active watch routes.
